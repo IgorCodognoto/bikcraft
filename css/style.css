@@ -10,3 +10,6 @@
 
 /* CSS Home */
 @import url("./home/introducao.css");
+
+/* Bicicletas */
+@import url("./bicicletas/bicicleta-lista.css");
