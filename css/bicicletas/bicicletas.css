@@ -51,6 +51,11 @@
   margin-bottom: 8px;
 }
 
+/* .bicicletas-conteudo h2:hover::before {
+  transform: translateY(-4px);
+  transition: 0.3s;
+} */
+
 .bicicletas-conteudo p {
   margin-bottom: 32px;
 }
